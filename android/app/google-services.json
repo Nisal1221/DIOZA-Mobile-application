@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "530365582094",
+    "firebase_url": "https://dioza-new-default-rtdb.firebaseio.com",
+    "project_id": "dioza-new",
+    "storage_bucket": "dioza-new.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530365582094:android:2c6b00080f542ac730255f",
+        "android_client_info": {
+          "package_name": "com.example.dioza_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530365582094-3iaaobka4fe6deosviri4uhnssrfghsh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dioza_new",
+            "certificate_hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+          }
+        },
+        {
+          "client_id": "530365582094-7g3i5us89g58890qivhd3lortmb2eton.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkE8KTaC7aAayI1eZf_wqOTMZoYpWukvs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530365582094-7g3i5us89g58890qivhd3lortmb2eton.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "530365582094-dq4l2jn4e0le8shemlbnfbp8t49v44fl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.diozaNew"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530365582094:android:8fd1b1dcd3215e2f30255f",
+        "android_client_info": {
+          "package_name": "com.example.untitled2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530365582094-7g3i5us89g58890qivhd3lortmb2eton.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkE8KTaC7aAayI1eZf_wqOTMZoYpWukvs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530365582094-7g3i5us89g58890qivhd3lortmb2eton.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "530365582094-dq4l2jn4e0le8shemlbnfbp8t49v44fl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.diozaNew"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
